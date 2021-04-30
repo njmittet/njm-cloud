@@ -1,0 +1,20 @@
+{
+  "name":"Cloud Playground",
+  "short_name":"Cloud Playground",
+  "display":"standalone",
+  "icons":[
+    {
+      "src":"icon-192.png",
+      "type":"image/png",
+      "sizes":"192x192"
+    },
+    {
+      "src":"icon-512.png",
+      "type":"image/png",
+      "sizes":"512x512"
+    }
+  ],
+  "theme_color":"#4a90e2",
+  "background_color":"#ffffff",
+  "start_url":"https://Www.njm.cloud"
+}
