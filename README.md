@@ -8,10 +8,10 @@ This website is deployed to an [AWS S3](https://aws.amazon.com/s3/) bucket. The 
 
 ```shell
 # List buckets.
-$ aws s3 ls
+aws s3 ls
 
 # List the content of a bucket.
-$ aws s3 ls <bucket-name>
+aws s3 ls <bucket-name>
 
 # Delete a file.
 aws s3 rm s3://<bucket-name>/<filename>
